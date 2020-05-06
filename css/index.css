@@ -350,3 +350,12 @@ img {
   background: #FFFFFF;
   color: #17A2B8;
 }
+.nope {
+  display: none;
+}
+.no {
+  top: 0;
+  position: fixed;
+  z-index: 2;
+  width: 50vw;
+}
