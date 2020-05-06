@@ -355,7 +355,7 @@ img {
 }
 .no {
   top: 0;
-  position: fixed;
+  position: center;
   z-index: 2;
-  width: 50vw;
+  width: 70vw;
 }
